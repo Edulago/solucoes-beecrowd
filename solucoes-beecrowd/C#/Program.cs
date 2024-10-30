@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            BEE1007.Execute();
+            BEE1015.Execute();
         }
     }
 }
